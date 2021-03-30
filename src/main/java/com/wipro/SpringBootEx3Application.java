@@ -6,6 +6,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class SpringBootEx3Application {
     static int a=10;
+    static final int y=20;
     public void show() {
     	return ;
     }
