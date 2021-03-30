@@ -12,6 +12,7 @@ public class SpringBootEx3Application {
     }
     
     private static final int c=30;
+    private static final int d=30;
 	public static void main(String[] args) {
 		SpringApplication.run(SpringBootEx3Application.class, args);
 	}
