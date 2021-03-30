@@ -10,6 +10,8 @@ public class SpringBootEx3Application {
     public void show() {
     	return ;
     }
+    
+    private static final int c=30;
 	public static void main(String[] args) {
 		SpringApplication.run(SpringBootEx3Application.class, args);
 	}
