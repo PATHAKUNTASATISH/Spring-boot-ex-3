@@ -10,6 +10,10 @@ public class SpringBootEx3Application {
     public void show() {
     	return ;
     }
+    
+    public void showMessage() {
+    	return msg ;
+    }
 	public static void main(String[] args) {
 		SpringApplication.run(SpringBootEx3Application.class, args);
 	}
